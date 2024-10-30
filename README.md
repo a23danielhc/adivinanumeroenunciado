@@ -8,7 +8,6 @@ Aunque la aplicación sea de consola puedes  inspirarte  en alguna app android c
 ![guessmynumberandroid.png](guessmynumberandroid.png)
 
 o bien en alguna versión web como
-
 [Numberle](https://kveez.com/en/numberle/#google_vignette)
 
 SE PIDE:

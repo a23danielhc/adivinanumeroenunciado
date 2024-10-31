@@ -20,4 +20,5 @@ SE PIDE:
 
 
 Aquí tienes un ejemplo de ejecución. Puedes mejorar mucho esta presentación, pretende simplemente mostrar de forma sencilla la idea del juego.
+
 ![traza.png](traza.png)
